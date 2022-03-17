@@ -28,10 +28,6 @@ import io.swagger.annotations.ApiResponse;
 import io.swagger.annotations.ApiResponses;
 import java.util.Optional;
 
-/**
- *
- * @author sotobotero
- */
 @Api(tags = "Billing API")
 @RestController
 @RequestMapping("/billing")
